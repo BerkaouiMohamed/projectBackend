@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e">
+    <diagram id="ONPUd3LRGdI-e-3sGyyx" name="Page-1">
+        <mxGraphModel dx="1512" dy="199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" value="ecom&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="285" y="415" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="home&lt;br&gt;navbar&lt;br&gt;5prod&lt;br&gt;slider&amp;nbsp;&lt;br&gt;footer" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-130" y="620" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="allprod&lt;br&gt;&lt;br&gt;search&lt;br&gt;pagination" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="610" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="single product" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="600" width="90" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="login" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="signup" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="card" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="order" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="myorders" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="710" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="admin dash" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-120" y="710" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="products&amp;nbsp;&lt;br&gt;tableau prods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="edit product&amp;nbsp;&lt;br&gt;delete product" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="all orders" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="edit order&lt;br&gt;delete order" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="users" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="edit deelte user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="470" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
