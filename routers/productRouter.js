@@ -8,7 +8,7 @@ const productRouter=express.Router()
 
 productRouter.get('/',getProductsController)
 
-productRouter.post('/',newProductController)
+productRouter.post('/',verifyJWT,verifyAdmin,newProductController)
 
 productRouter.get('/:id',getSingleProductsController)
 
