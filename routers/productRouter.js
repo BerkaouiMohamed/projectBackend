@@ -1,5 +1,7 @@
 const express=require('express')
 const { getProductsController, newProductController, editProductController, deleteProductController ,getSingleProductsController} = require('../controllers/productControllers')
+const verifyJWT = require('../middelwares/verifyJWT')
+const verifyAdmin = require('../middelwares/verifyAdmin')
 
 
 
